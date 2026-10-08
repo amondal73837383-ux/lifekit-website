@@ -1,0 +1,10 @@
+PUT YOUR TESTED APK IN THIS FOLDER.
+
+Rename your APK exactly to:
+LifeKit-v1.0.0.apk
+
+The final website expects this exact path:
+download/LifeKit-v1.0.0.apk
+
+Your current tested APK should be here on your PC:
+C:\LifeKit2\lifekit\build\app\outputs\flutter-apk\LifeKit-v1.0.0.apk
